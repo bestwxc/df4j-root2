@@ -7,9 +7,10 @@
         <groupId>com.df4j</groupId>
         <version>2.0.0.0</version>
     </parent>
-    <modelVersion>4.0.0</modelVersion>
 
+    <modelVersion>4.0.0</modelVersion>
     <artifactId>df4j-maven-plugin-root</artifactId>
+    <packaging>pom</packaging>
 
     <!--其他信息-->
     <description>df4j项目2.0Maven插件父工程</description>

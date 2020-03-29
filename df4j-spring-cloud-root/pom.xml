@@ -10,6 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>df4j-spring-cloud-root</artifactId>
+    <packaging>pom</packaging>
+
     <!--其他信息-->
     <description>df4j项目2.0 SpringCloud微服务父工程</description>
     <name>df4j项目2.0 SpringCloud微服务父工程</name>
