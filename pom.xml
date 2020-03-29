@@ -14,7 +14,7 @@
         <version>2.2.6.RELEASE</version>
     </parent>
     <!--当前工程的关键信息-->
-    <groupId>org.example</groupId>
+    <groupId>com.df4j</groupId>
     <artifactId>df4j-root</artifactId>
     <version>2.0.0.0</version>
     <packaging>pom</packaging>
@@ -255,16 +255,16 @@
     <build>
         <plugins>
             <plugin>
-            <artifactId>maven-compiler-plugin</artifactId>
-        </plugin>
-            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+            </plugin>
+            <!--<plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-source-plugin</artifactId>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-javadoc-plugin</artifactId>
-            </plugin>
+            </plugin>-->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-gpg-plugin</artifactId>
