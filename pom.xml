@@ -88,7 +88,7 @@
         <!-- jjwt -->
         <jjwt.version>0.10.5</jjwt.version>
 
-        <shiro-spring.version>1.5.2</shiro-spring.version>
+        <shiro-spring.version>1.7.0</shiro-spring.version>
     </properties>
     <dependencies>
         <dependency>
